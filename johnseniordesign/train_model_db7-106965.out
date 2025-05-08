@@ -1,0 +1,888 @@
+
+The following have been reloaded with a version change:
+  1) GCCcore/12.3.0 => GCCcore/14.2.0
+  2) binutils/2.40-GCCcore-12.3.0 => binutils/2.42-GCCcore-14.2.0
+  3) zlib/1.2.13-GCCcore-12.3.0 => zlib/1.3.1-GCCcore-14.2.0
+
+Activating virtual environment...
+Using Python from: /WAVE/projects2/sd-2024-25-cloud-lab-llm/NetGen/john/env/bin/python
+Starting training model6...
+Loaded 12000 samples from traffic_data.db
+spm vocab size:  32000
+Number of trainable parameters: 81162922
+Epoch [1/500], Loss: 5.098308
+Best model saved with loss 5.098308
+Epoch [2/500], Loss: 1.718904
+Best model saved with loss 1.718904
+Epoch [3/500], Loss: 1.632768
+Best model saved with loss 1.632768
+Epoch [4/500], Loss: 1.609239
+Best model saved with loss 1.609239
+Epoch [5/500], Loss: 1.594005
+Best model saved with loss 1.594005
+Epoch [6/500], Loss: 1.584356
+Best model saved with loss 1.584356
+Epoch [7/500], Loss: 1.577241
+Best model saved with loss 1.577241
+Epoch [8/500], Loss: 1.571551
+Best model saved with loss 1.571551
+Epoch [9/500], Loss: 1.567112
+Best model saved with loss 1.567112
+Epoch [10/500], Loss: 1.563559
+Best model saved with loss 1.563559
+Epoch [11/500], Loss: 1.559914
+Best model saved with loss 1.559914
+Epoch [12/500], Loss: 1.558294
+Best model saved with loss 1.558294
+Epoch [13/500], Loss: 1.555622
+Best model saved with loss 1.555622
+Epoch [14/500], Loss: 1.553553
+Best model saved with loss 1.553553
+Epoch [15/500], Loss: 1.551141
+Best model saved with loss 1.551141
+Epoch [16/500], Loss: 1.548485
+Best model saved with loss 1.548485
+Epoch [17/500], Loss: 1.546925
+Best model saved with loss 1.546925
+Epoch [18/500], Loss: 1.545547
+Best model saved with loss 1.545547
+Epoch [19/500], Loss: 1.543535
+Best model saved with loss 1.543535
+Epoch [20/500], Loss: 1.541590
+Best model saved with loss 1.541590
+Epoch [21/500], Loss: 1.540631
+Best model saved with loss 1.540631
+Epoch [22/500], Loss: 1.538730
+Best model saved with loss 1.538730
+Epoch [23/500], Loss: 1.537224
+Best model saved with loss 1.537224
+Epoch [24/500], Loss: 1.536569
+Best model saved with loss 1.536569
+Epoch [25/500], Loss: 1.535431
+Best model saved with loss 1.535431
+Epoch [26/500], Loss: 1.534575
+Best model saved with loss 1.534575
+Epoch [27/500], Loss: 1.533271
+Best model saved with loss 1.533271
+Epoch [28/500], Loss: 1.532204
+Best model saved with loss 1.532204
+Epoch [29/500], Loss: 1.530909
+Best model saved with loss 1.530909
+Epoch [30/500], Loss: 1.530095
+Best model saved with loss 1.530095
+Epoch [31/500], Loss: 1.529701
+Best model saved with loss 1.529701
+Epoch [32/500], Loss: 1.527707
+Best model saved with loss 1.527707
+Epoch [33/500], Loss: 1.527571
+Best model saved with loss 1.527571
+Epoch [34/500], Loss: 1.527176
+Best model saved with loss 1.527176
+Epoch [35/500], Loss: 1.526150
+Best model saved with loss 1.526150
+Epoch [36/500], Loss: 1.525207
+Best model saved with loss 1.525207
+Epoch [37/500], Loss: 1.524244
+Best model saved with loss 1.524244
+Epoch [38/500], Loss: 1.524544
+Epoch [39/500], Loss: 1.523602
+Best model saved with loss 1.523602
+Epoch [40/500], Loss: 1.522918
+Best model saved with loss 1.522918
+Epoch [41/500], Loss: 1.522617
+Best model saved with loss 1.522617
+Epoch [42/500], Loss: 1.521789
+Best model saved with loss 1.521789
+Epoch [43/500], Loss: 1.521448
+Best model saved with loss 1.521448
+Epoch [44/500], Loss: 1.520831
+Best model saved with loss 1.520831
+Epoch [45/500], Loss: 1.520448
+Best model saved with loss 1.520448
+Epoch [46/500], Loss: 1.519798
+Best model saved with loss 1.519798
+Epoch [47/500], Loss: 1.519288
+Best model saved with loss 1.519288
+Epoch [48/500], Loss: 1.518616
+Best model saved with loss 1.518616
+Epoch [49/500], Loss: 1.516644
+Best model saved with loss 1.516644
+Epoch [50/500], Loss: 1.518639
+Epoch [51/500], Loss: 1.517064
+Epoch [52/500], Loss: 1.517405
+Epoch [53/500], Loss: 1.516740
+Epoch [54/500], Loss: 1.516500
+Best model saved with loss 1.516500
+Epoch [55/500], Loss: 1.516052
+Best model saved with loss 1.516052
+Epoch [56/500], Loss: 1.515312
+Best model saved with loss 1.515312
+Epoch [57/500], Loss: 1.515048
+Best model saved with loss 1.515048
+Epoch [58/500], Loss: 1.514814
+Best model saved with loss 1.514814
+Epoch [59/500], Loss: 1.514536
+Best model saved with loss 1.514536
+Epoch [60/500], Loss: 1.514517
+Best model saved with loss 1.514517
+Epoch [61/500], Loss: 1.514635
+Epoch [62/500], Loss: 1.513106
+Best model saved with loss 1.513106
+Epoch [63/500], Loss: 1.513019
+Best model saved with loss 1.513019
+Epoch [64/500], Loss: 1.513142
+Epoch [65/500], Loss: 1.512179
+Best model saved with loss 1.512179
+Epoch [66/500], Loss: 1.512322
+Epoch [67/500], Loss: 1.512042
+Best model saved with loss 1.512042
+Epoch [68/500], Loss: 1.511569
+Best model saved with loss 1.511569
+Epoch [69/500], Loss: 1.511445
+Best model saved with loss 1.511445
+Epoch [70/500], Loss: 1.510885
+Best model saved with loss 1.510885
+Epoch [71/500], Loss: 1.510950
+Epoch [72/500], Loss: 1.510133
+Best model saved with loss 1.510133
+Epoch [73/500], Loss: 1.509431
+Best model saved with loss 1.509431
+Epoch [74/500], Loss: 1.509294
+Best model saved with loss 1.509294
+Epoch [75/500], Loss: 1.508978
+Best model saved with loss 1.508978
+Epoch [76/500], Loss: 1.509143
+Epoch [77/500], Loss: 1.508673
+Best model saved with loss 1.508673
+Epoch [78/500], Loss: 1.508903
+Epoch [79/500], Loss: 1.507790
+Best model saved with loss 1.507790
+Epoch [80/500], Loss: 1.508600
+Epoch [81/500], Loss: 1.507430
+Best model saved with loss 1.507430
+Epoch [82/500], Loss: 1.507695
+Epoch [83/500], Loss: 1.506761
+Best model saved with loss 1.506761
+Epoch [84/500], Loss: 1.507322
+Epoch [85/500], Loss: 1.506648
+Best model saved with loss 1.506648
+Epoch [86/500], Loss: 1.505348
+Best model saved with loss 1.505348
+Epoch [87/500], Loss: 1.506194
+Epoch [88/500], Loss: 1.504328
+Best model saved with loss 1.504328
+Epoch [89/500], Loss: 1.504962
+Epoch [90/500], Loss: 1.504852
+Epoch [91/500], Loss: 1.504007
+Best model saved with loss 1.504007
+Epoch [92/500], Loss: 1.504244
+Epoch [93/500], Loss: 1.504136
+Epoch [94/500], Loss: 1.503636
+Best model saved with loss 1.503636
+Epoch [95/500], Loss: 1.501310
+Best model saved with loss 1.501310
+Epoch [96/500], Loss: 1.503458
+Epoch [97/500], Loss: 1.502707
+Epoch [98/500], Loss: 1.502562
+Epoch [99/500], Loss: 1.500717
+Best model saved with loss 1.500717
+Epoch [100/500], Loss: 1.501793
+Epoch [101/500], Loss: 1.501422
+Epoch [102/500], Loss: 1.500866
+Epoch [103/500], Loss: 1.500652
+Best model saved with loss 1.500652
+Epoch [104/500], Loss: 1.500268
+Best model saved with loss 1.500268
+Epoch [105/500], Loss: 1.500207
+Best model saved with loss 1.500207
+Epoch [106/500], Loss: 1.499276
+Best model saved with loss 1.499276
+Epoch [107/500], Loss: 1.497912
+Best model saved with loss 1.497912
+Epoch [108/500], Loss: 1.498035
+Epoch [109/500], Loss: 1.498454
+Epoch [110/500], Loss: 1.498013
+Epoch [111/500], Loss: 1.497959
+Epoch [112/500], Loss: 1.497197
+Best model saved with loss 1.497197
+Epoch [113/500], Loss: 1.496486
+Best model saved with loss 1.496486
+Epoch [114/500], Loss: 1.496575
+Epoch [115/500], Loss: 1.496426
+Best model saved with loss 1.496426
+Epoch [116/500], Loss: 1.495990
+Best model saved with loss 1.495990
+Epoch [117/500], Loss: 1.495036
+Best model saved with loss 1.495036
+Epoch [118/500], Loss: 1.495005
+Best model saved with loss 1.495005
+Epoch [119/500], Loss: 1.494256
+Best model saved with loss 1.494256
+Epoch [120/500], Loss: 1.493346
+Best model saved with loss 1.493346
+Epoch [121/500], Loss: 1.492876
+Best model saved with loss 1.492876
+Epoch [122/500], Loss: 1.492791
+Best model saved with loss 1.492791
+Epoch [123/500], Loss: 1.492220
+Best model saved with loss 1.492220
+Epoch [124/500], Loss: 1.492718
+Epoch [125/500], Loss: 1.491824
+Best model saved with loss 1.491824
+Epoch [126/500], Loss: 1.491829
+Epoch [127/500], Loss: 1.491030
+Best model saved with loss 1.491030
+Epoch [128/500], Loss: 1.491011
+Best model saved with loss 1.491011
+Epoch [129/500], Loss: 1.490101
+Best model saved with loss 1.490101
+Epoch [130/500], Loss: 1.490827
+Epoch [131/500], Loss: 1.489452
+Best model saved with loss 1.489452
+Epoch [132/500], Loss: 1.489783
+Epoch [133/500], Loss: 1.489012
+Best model saved with loss 1.489012
+Epoch [134/500], Loss: 1.487258
+Best model saved with loss 1.487258
+Epoch [135/500], Loss: 1.487976
+Epoch [136/500], Loss: 1.487784
+Epoch [137/500], Loss: 1.486840
+Best model saved with loss 1.486840
+Epoch [138/500], Loss: 1.486982
+Epoch [139/500], Loss: 1.485636
+Best model saved with loss 1.485636
+Epoch [140/500], Loss: 1.485132
+Best model saved with loss 1.485132
+Epoch [141/500], Loss: 1.485335
+Epoch [142/500], Loss: 1.485368
+Epoch [143/500], Loss: 1.484170
+Best model saved with loss 1.484170
+Epoch [144/500], Loss: 1.484352
+Epoch [145/500], Loss: 1.483248
+Best model saved with loss 1.483248
+Epoch [146/500], Loss: 1.483148
+Best model saved with loss 1.483148
+Epoch [147/500], Loss: 1.482201
+Best model saved with loss 1.482201
+Epoch [148/500], Loss: 1.482044
+Best model saved with loss 1.482044
+Epoch [149/500], Loss: 1.481236
+Best model saved with loss 1.481236
+Epoch [150/500], Loss: 1.480487
+Best model saved with loss 1.480487
+Epoch [151/500], Loss: 1.480854
+Epoch [152/500], Loss: 1.480009
+Best model saved with loss 1.480009
+Epoch [153/500], Loss: 1.480276
+Epoch [154/500], Loss: 1.477996
+Best model saved with loss 1.477996
+Epoch [155/500], Loss: 1.478983
+Epoch [156/500], Loss: 1.478275
+Epoch [157/500], Loss: 1.477858
+Best model saved with loss 1.477858
+Epoch [158/500], Loss: 1.477241
+Best model saved with loss 1.477241
+Epoch [159/500], Loss: 1.477025
+Best model saved with loss 1.477025
+Epoch [160/500], Loss: 1.475961
+Best model saved with loss 1.475961
+Epoch [161/500], Loss: 1.475785
+Best model saved with loss 1.475785
+Epoch [162/500], Loss: 1.475894
+Epoch [163/500], Loss: 1.475130
+Best model saved with loss 1.475130
+Epoch [164/500], Loss: 1.474701
+Best model saved with loss 1.474701
+Epoch [165/500], Loss: 1.474626
+Best model saved with loss 1.474626
+Epoch [166/500], Loss: 1.473699
+Best model saved with loss 1.473699
+Epoch [167/500], Loss: 1.472795
+Best model saved with loss 1.472795
+Epoch [168/500], Loss: 1.472404
+Best model saved with loss 1.472404
+Epoch [169/500], Loss: 1.472048
+Best model saved with loss 1.472048
+Epoch [170/500], Loss: 1.471346
+Best model saved with loss 1.471346
+Epoch [171/500], Loss: 1.471477
+Epoch [172/500], Loss: 1.469650
+Best model saved with loss 1.469650
+Epoch [173/500], Loss: 1.469961
+Epoch [174/500], Loss: 1.468657
+Best model saved with loss 1.468657
+Epoch [175/500], Loss: 1.468074
+Best model saved with loss 1.468074
+Epoch [176/500], Loss: 1.468683
+Epoch [177/500], Loss: 1.467369
+Best model saved with loss 1.467369
+Epoch [178/500], Loss: 1.466660
+Best model saved with loss 1.466660
+Epoch [179/500], Loss: 1.466500
+Best model saved with loss 1.466500
+Epoch [180/500], Loss: 1.466837
+Epoch [181/500], Loss: 1.465468
+Best model saved with loss 1.465468
+Epoch [182/500], Loss: 1.465677
+Epoch [183/500], Loss: 1.464832
+Best model saved with loss 1.464832
+Epoch [184/500], Loss: 1.464510
+Best model saved with loss 1.464510
+Epoch [185/500], Loss: 1.463427
+Best model saved with loss 1.463427
+Epoch [186/500], Loss: 1.462937
+Best model saved with loss 1.462937
+Epoch [187/500], Loss: 1.462912
+Best model saved with loss 1.462912
+Epoch [188/500], Loss: 1.461783
+Best model saved with loss 1.461783
+Epoch [189/500], Loss: 1.461616
+Best model saved with loss 1.461616
+Epoch [190/500], Loss: 1.460664
+Best model saved with loss 1.460664
+Epoch [191/500], Loss: 1.460547
+Best model saved with loss 1.460547
+Epoch [192/500], Loss: 1.458982
+Best model saved with loss 1.458982
+Epoch [193/500], Loss: 1.459065
+Epoch [194/500], Loss: 1.458204
+Best model saved with loss 1.458204
+Epoch [195/500], Loss: 1.457761
+Best model saved with loss 1.457761
+Epoch [196/500], Loss: 1.458010
+Epoch [197/500], Loss: 1.457372
+Best model saved with loss 1.457372
+Epoch [198/500], Loss: 1.456685
+Best model saved with loss 1.456685
+Epoch [199/500], Loss: 1.455767
+Best model saved with loss 1.455767
+Epoch [200/500], Loss: 1.455445
+Best model saved with loss 1.455445
+Epoch [201/500], Loss: 1.454125
+Best model saved with loss 1.454125
+Epoch [202/500], Loss: 1.455101
+Epoch [203/500], Loss: 1.453287
+Best model saved with loss 1.453287
+Epoch [204/500], Loss: 1.453534
+Epoch [205/500], Loss: 1.452973
+Best model saved with loss 1.452973
+Epoch [206/500], Loss: 1.451722
+Best model saved with loss 1.451722
+Epoch [207/500], Loss: 1.451632
+Best model saved with loss 1.451632
+Epoch [208/500], Loss: 1.450205
+Best model saved with loss 1.450205
+Epoch [209/500], Loss: 1.450131
+Best model saved with loss 1.450131
+Epoch [210/500], Loss: 1.450306
+Epoch [211/500], Loss: 1.449879
+Best model saved with loss 1.449879
+Epoch [212/500], Loss: 1.448481
+Best model saved with loss 1.448481
+Epoch [213/500], Loss: 1.448333
+Best model saved with loss 1.448333
+Epoch [214/500], Loss: 1.447599
+Best model saved with loss 1.447599
+Epoch [215/500], Loss: 1.447099
+Best model saved with loss 1.447099
+Epoch [216/500], Loss: 1.447165
+Epoch [217/500], Loss: 1.446104
+Best model saved with loss 1.446104
+Epoch [218/500], Loss: 1.445713
+Best model saved with loss 1.445713
+Epoch [219/500], Loss: 1.445294
+Best model saved with loss 1.445294
+Epoch [220/500], Loss: 1.444321
+Best model saved with loss 1.444321
+Epoch [221/500], Loss: 1.444383
+Epoch [222/500], Loss: 1.443090
+Best model saved with loss 1.443090
+Epoch [223/500], Loss: 1.442843
+Best model saved with loss 1.442843
+Epoch [224/500], Loss: 1.442268
+Best model saved with loss 1.442268
+Epoch [225/500], Loss: 1.442116
+Best model saved with loss 1.442116
+Epoch [226/500], Loss: 1.441724
+Best model saved with loss 1.441724
+Epoch [227/500], Loss: 1.440547
+Best model saved with loss 1.440547
+Epoch [228/500], Loss: 1.439894
+Best model saved with loss 1.439894
+Epoch [229/500], Loss: 1.439959
+Epoch [230/500], Loss: 1.438310
+Best model saved with loss 1.438310
+Epoch [231/500], Loss: 1.437867
+Best model saved with loss 1.437867
+Epoch [232/500], Loss: 1.438585
+Epoch [233/500], Loss: 1.437672
+Best model saved with loss 1.437672
+Epoch [234/500], Loss: 1.437387
+Best model saved with loss 1.437387
+Epoch [235/500], Loss: 1.436719
+Best model saved with loss 1.436719
+Epoch [236/500], Loss: 1.435837
+Best model saved with loss 1.435837
+Epoch [237/500], Loss: 1.435239
+Best model saved with loss 1.435239
+Epoch [238/500], Loss: 1.435404
+Epoch [239/500], Loss: 1.434225
+Best model saved with loss 1.434225
+Epoch [240/500], Loss: 1.434023
+Best model saved with loss 1.434023
+Epoch [241/500], Loss: 1.433357
+Best model saved with loss 1.433357
+Epoch [242/500], Loss: 1.432147
+Best model saved with loss 1.432147
+Epoch [243/500], Loss: 1.433086
+Epoch [244/500], Loss: 1.431833
+Best model saved with loss 1.431833
+Epoch [245/500], Loss: 1.431023
+Best model saved with loss 1.431023
+Epoch [246/500], Loss: 1.430297
+Best model saved with loss 1.430297
+Epoch [247/500], Loss: 1.430005
+Best model saved with loss 1.430005
+Epoch [248/500], Loss: 1.429085
+Best model saved with loss 1.429085
+Epoch [249/500], Loss: 1.429419
+Epoch [250/500], Loss: 1.429208
+Epoch [251/500], Loss: 1.427679
+Best model saved with loss 1.427679
+Epoch [252/500], Loss: 1.427705
+Epoch [253/500], Loss: 1.426915
+Best model saved with loss 1.426915
+Epoch [254/500], Loss: 1.427144
+Epoch [255/500], Loss: 1.425852
+Best model saved with loss 1.425852
+Epoch [256/500], Loss: 1.425219
+Best model saved with loss 1.425219
+Epoch [257/500], Loss: 1.424497
+Best model saved with loss 1.424497
+Epoch [258/500], Loss: 1.425123
+Epoch [259/500], Loss: 1.423976
+Best model saved with loss 1.423976
+Epoch [260/500], Loss: 1.423360
+Best model saved with loss 1.423360
+Epoch [261/500], Loss: 1.422924
+Best model saved with loss 1.422924
+Epoch [262/500], Loss: 1.423034
+Epoch [263/500], Loss: 1.421890
+Best model saved with loss 1.421890
+Epoch [264/500], Loss: 1.421526
+Best model saved with loss 1.421526
+Epoch [265/500], Loss: 1.421871
+Epoch [266/500], Loss: 1.420860
+Best model saved with loss 1.420860
+Epoch [267/500], Loss: 1.420148
+Best model saved with loss 1.420148
+Epoch [268/500], Loss: 1.419750
+Best model saved with loss 1.419750
+Epoch [269/500], Loss: 1.418733
+Best model saved with loss 1.418733
+Epoch [270/500], Loss: 1.418114
+Best model saved with loss 1.418114
+Epoch [271/500], Loss: 1.418435
+Epoch [272/500], Loss: 1.417805
+Best model saved with loss 1.417805
+Epoch [273/500], Loss: 1.417764
+Best model saved with loss 1.417764
+Epoch [274/500], Loss: 1.415724
+Best model saved with loss 1.415724
+Epoch [275/500], Loss: 1.416336
+Epoch [276/500], Loss: 1.415843
+Epoch [277/500], Loss: 1.415813
+Epoch [278/500], Loss: 1.414828
+Best model saved with loss 1.414828
+Epoch [279/500], Loss: 1.414144
+Best model saved with loss 1.414144
+Epoch [280/500], Loss: 1.413578
+Best model saved with loss 1.413578
+Epoch [281/500], Loss: 1.413235
+Best model saved with loss 1.413235
+Epoch [282/500], Loss: 1.412267
+Best model saved with loss 1.412267
+Epoch [283/500], Loss: 1.411968
+Best model saved with loss 1.411968
+Epoch [284/500], Loss: 1.411634
+Best model saved with loss 1.411634
+Epoch [285/500], Loss: 1.412114
+Epoch [286/500], Loss: 1.410933
+Best model saved with loss 1.410933
+Epoch [287/500], Loss: 1.410465
+Best model saved with loss 1.410465
+Epoch [288/500], Loss: 1.409299
+Best model saved with loss 1.409299
+Epoch [289/500], Loss: 1.408762
+Best model saved with loss 1.408762
+Epoch [290/500], Loss: 1.408497
+Best model saved with loss 1.408497
+Epoch [291/500], Loss: 1.407994
+Best model saved with loss 1.407994
+Epoch [292/500], Loss: 1.408201
+Epoch [293/500], Loss: 1.407866
+Best model saved with loss 1.407866
+Epoch [294/500], Loss: 1.407567
+Best model saved with loss 1.407567
+Epoch [295/500], Loss: 1.407218
+Best model saved with loss 1.407218
+Epoch [296/500], Loss: 1.405682
+Best model saved with loss 1.405682
+Epoch [297/500], Loss: 1.406084
+Epoch [298/500], Loss: 1.405291
+Best model saved with loss 1.405291
+Epoch [299/500], Loss: 1.405054
+Best model saved with loss 1.405054
+Epoch [300/500], Loss: 1.404610
+Best model saved with loss 1.404610
+Epoch [301/500], Loss: 1.404509
+Best model saved with loss 1.404509
+Epoch [302/500], Loss: 1.403707
+Best model saved with loss 1.403707
+Epoch [303/500], Loss: 1.401480
+Best model saved with loss 1.401480
+Epoch [304/500], Loss: 1.402802
+Epoch [305/500], Loss: 1.402450
+Epoch [306/500], Loss: 1.401850
+Epoch [307/500], Loss: 1.400933
+Best model saved with loss 1.400933
+Epoch [308/500], Loss: 1.400483
+Best model saved with loss 1.400483
+Epoch [309/500], Loss: 1.400705
+Epoch [310/500], Loss: 1.398990
+Best model saved with loss 1.398990
+Epoch [311/500], Loss: 1.399353
+Epoch [312/500], Loss: 1.399158
+Epoch [313/500], Loss: 1.398836
+Best model saved with loss 1.398836
+Epoch [314/500], Loss: 1.398143
+Best model saved with loss 1.398143
+Epoch [315/500], Loss: 1.398215
+Epoch [316/500], Loss: 1.397385
+Best model saved with loss 1.397385
+Epoch [317/500], Loss: 1.397040
+Best model saved with loss 1.397040
+Epoch [318/500], Loss: 1.396345
+Best model saved with loss 1.396345
+Epoch [319/500], Loss: 1.395310
+Best model saved with loss 1.395310
+Epoch [320/500], Loss: 1.395566
+Epoch [321/500], Loss: 1.395293
+Best model saved with loss 1.395293
+Epoch [322/500], Loss: 1.395403
+Epoch [323/500], Loss: 1.394342
+Best model saved with loss 1.394342
+Epoch [324/500], Loss: 1.394216
+Best model saved with loss 1.394216
+Epoch [325/500], Loss: 1.393261
+Best model saved with loss 1.393261
+Epoch [326/500], Loss: 1.392766
+Best model saved with loss 1.392766
+Epoch [327/500], Loss: 1.391799
+Best model saved with loss 1.391799
+Epoch [328/500], Loss: 1.391919
+Epoch [329/500], Loss: 1.391672
+Best model saved with loss 1.391672
+Epoch [330/500], Loss: 1.391387
+Best model saved with loss 1.391387
+Epoch [331/500], Loss: 1.391064
+Best model saved with loss 1.391064
+Epoch [332/500], Loss: 1.390190
+Best model saved with loss 1.390190
+Epoch [333/500], Loss: 1.390493
+Epoch [334/500], Loss: 1.389335
+Best model saved with loss 1.389335
+Epoch [335/500], Loss: 1.389057
+Best model saved with loss 1.389057
+Epoch [336/500], Loss: 1.389330
+Epoch [337/500], Loss: 1.388327
+Best model saved with loss 1.388327
+Epoch [338/500], Loss: 1.388369
+Epoch [339/500], Loss: 1.387491
+Best model saved with loss 1.387491
+Epoch [340/500], Loss: 1.386377
+Best model saved with loss 1.386377
+Epoch [341/500], Loss: 1.386713
+Epoch [342/500], Loss: 1.386097
+Best model saved with loss 1.386097
+Epoch [343/500], Loss: 1.385679
+Best model saved with loss 1.385679
+Epoch [344/500], Loss: 1.386133
+Epoch [345/500], Loss: 1.386059
+Epoch [346/500], Loss: 1.384625
+Best model saved with loss 1.384625
+Epoch [347/500], Loss: 1.384364
+Best model saved with loss 1.384364
+Epoch [348/500], Loss: 1.384113
+Best model saved with loss 1.384113
+Epoch [349/500], Loss: 1.383924
+Best model saved with loss 1.383924
+Epoch [350/500], Loss: 1.383103
+Best model saved with loss 1.383103
+Epoch [351/500], Loss: 1.382883
+Best model saved with loss 1.382883
+Epoch [352/500], Loss: 1.381602
+Best model saved with loss 1.381602
+Epoch [353/500], Loss: 1.381385
+Best model saved with loss 1.381385
+Epoch [354/500], Loss: 1.382243
+Epoch [355/500], Loss: 1.380734
+Best model saved with loss 1.380734
+Epoch [356/500], Loss: 1.380675
+Best model saved with loss 1.380675
+Epoch [357/500], Loss: 1.380527
+Best model saved with loss 1.380527
+Epoch [358/500], Loss: 1.380199
+Best model saved with loss 1.380199
+Epoch [359/500], Loss: 1.379708
+Best model saved with loss 1.379708
+Epoch [360/500], Loss: 1.378657
+Best model saved with loss 1.378657
+Epoch [361/500], Loss: 1.378726
+Epoch [362/500], Loss: 1.378315
+Best model saved with loss 1.378315
+Epoch [363/500], Loss: 1.377929
+Best model saved with loss 1.377929
+Epoch [364/500], Loss: 1.377919
+Best model saved with loss 1.377919
+Epoch [365/500], Loss: 1.377168
+Best model saved with loss 1.377168
+Epoch [366/500], Loss: 1.376855
+Best model saved with loss 1.376855
+Epoch [367/500], Loss: 1.376607
+Best model saved with loss 1.376607
+Epoch [368/500], Loss: 1.375450
+Best model saved with loss 1.375450
+Epoch [369/500], Loss: 1.375761
+Epoch [370/500], Loss: 1.375476
+Epoch [371/500], Loss: 1.375633
+Epoch [372/500], Loss: 1.374175
+Best model saved with loss 1.374175
+Epoch [373/500], Loss: 1.373447
+Best model saved with loss 1.373447
+Epoch [374/500], Loss: 1.373636
+Epoch [375/500], Loss: 1.373113
+Best model saved with loss 1.373113
+Epoch [376/500], Loss: 1.372347
+Best model saved with loss 1.372347
+Epoch [377/500], Loss: 1.371308
+Best model saved with loss 1.371308
+Epoch [378/500], Loss: 1.371195
+Best model saved with loss 1.371195
+Epoch [379/500], Loss: 1.370574
+Best model saved with loss 1.370574
+Epoch [380/500], Loss: 1.371345
+Epoch [381/500], Loss: 1.370939
+Epoch [382/500], Loss: 1.370399
+Best model saved with loss 1.370399
+Epoch [383/500], Loss: 1.370149
+Best model saved with loss 1.370149
+Epoch [384/500], Loss: 1.370133
+Best model saved with loss 1.370133
+Epoch [385/500], Loss: 1.369844
+Best model saved with loss 1.369844
+Epoch [386/500], Loss: 1.369438
+Best model saved with loss 1.369438
+Epoch [387/500], Loss: 1.369118
+Best model saved with loss 1.369118
+Epoch [388/500], Loss: 1.369081
+Best model saved with loss 1.369081
+Epoch [389/500], Loss: 1.367800
+Best model saved with loss 1.367800
+Epoch [390/500], Loss: 1.367090
+Best model saved with loss 1.367090
+Epoch [391/500], Loss: 1.367406
+Epoch [392/500], Loss: 1.367296
+Epoch [393/500], Loss: 1.367034
+Best model saved with loss 1.367034
+Epoch [394/500], Loss: 1.366663
+Best model saved with loss 1.366663
+Epoch [395/500], Loss: 1.365442
+Best model saved with loss 1.365442
+Epoch [396/500], Loss: 1.365193
+Best model saved with loss 1.365193
+Epoch [397/500], Loss: 1.365361
+Epoch [398/500], Loss: 1.365158
+Best model saved with loss 1.365158
+Epoch [399/500], Loss: 1.364260
+Best model saved with loss 1.364260
+Epoch [400/500], Loss: 1.364382
+Epoch [401/500], Loss: 1.363826
+Best model saved with loss 1.363826
+Epoch [402/500], Loss: 1.363791
+Best model saved with loss 1.363791
+Epoch [403/500], Loss: 1.363278
+Best model saved with loss 1.363278
+Epoch [404/500], Loss: 1.363283
+Epoch [405/500], Loss: 1.363089
+Best model saved with loss 1.363089
+Epoch [406/500], Loss: 1.362113
+Best model saved with loss 1.362113
+Epoch [407/500], Loss: 1.361289
+Best model saved with loss 1.361289
+Epoch [408/500], Loss: 1.361390
+Epoch [409/500], Loss: 1.360871
+Best model saved with loss 1.360871
+Epoch [410/500], Loss: 1.360654
+Best model saved with loss 1.360654
+Epoch [411/500], Loss: 1.360101
+Best model saved with loss 1.360101
+Epoch [412/500], Loss: 1.359680
+Best model saved with loss 1.359680
+Epoch [413/500], Loss: 1.359470
+Best model saved with loss 1.359470
+Epoch [414/500], Loss: 1.359047
+Best model saved with loss 1.359047
+Epoch [415/500], Loss: 1.359138
+Epoch [416/500], Loss: 1.357893
+Best model saved with loss 1.357893
+Epoch [417/500], Loss: 1.358442
+Epoch [418/500], Loss: 1.357792
+Best model saved with loss 1.357792
+Epoch [419/500], Loss: 1.357648
+Best model saved with loss 1.357648
+Epoch [420/500], Loss: 1.356705
+Best model saved with loss 1.356705
+Epoch [421/500], Loss: 1.357210
+Epoch [422/500], Loss: 1.356386
+Best model saved with loss 1.356386
+Epoch [423/500], Loss: 1.356502
+Epoch [424/500], Loss: 1.355921
+Best model saved with loss 1.355921
+Epoch [425/500], Loss: 1.355472
+Best model saved with loss 1.355472
+Epoch [426/500], Loss: 1.355050
+Best model saved with loss 1.355050
+Epoch [427/500], Loss: 1.355022
+Best model saved with loss 1.355022
+Epoch [428/500], Loss: 1.354924
+Best model saved with loss 1.354924
+Epoch [429/500], Loss: 1.355063
+Epoch [430/500], Loss: 1.354369
+Best model saved with loss 1.354369
+Epoch [431/500], Loss: 1.353534
+Best model saved with loss 1.353534
+Epoch [432/500], Loss: 1.353042
+Best model saved with loss 1.353042
+Epoch [433/500], Loss: 1.352936
+Best model saved with loss 1.352936
+Epoch [434/500], Loss: 1.352533
+Best model saved with loss 1.352533
+Epoch [435/500], Loss: 1.352577
+Epoch [436/500], Loss: 1.351393
+Best model saved with loss 1.351393
+Epoch [437/500], Loss: 1.351252
+Best model saved with loss 1.351252
+Epoch [438/500], Loss: 1.351567
+Epoch [439/500], Loss: 1.350868
+Best model saved with loss 1.350868
+Epoch [440/500], Loss: 1.350155
+Best model saved with loss 1.350155
+Epoch [441/500], Loss: 1.349829
+Best model saved with loss 1.349829
+Epoch [442/500], Loss: 1.349926
+Epoch [443/500], Loss: 1.349590
+Best model saved with loss 1.349590
+Epoch [444/500], Loss: 1.349227
+Best model saved with loss 1.349227
+Epoch [445/500], Loss: 1.348992
+Best model saved with loss 1.348992
+Epoch [446/500], Loss: 1.348360
+Best model saved with loss 1.348360
+Epoch [447/500], Loss: 1.348236
+Best model saved with loss 1.348236
+Epoch [448/500], Loss: 1.347766
+Best model saved with loss 1.347766
+Epoch [449/500], Loss: 1.347829
+Epoch [450/500], Loss: 1.347541
+Best model saved with loss 1.347541
+Epoch [451/500], Loss: 1.346206
+Best model saved with loss 1.346206
+Epoch [452/500], Loss: 1.347030
+Epoch [453/500], Loss: 1.346589
+Epoch [454/500], Loss: 1.346008
+Best model saved with loss 1.346008
+Epoch [455/500], Loss: 1.345585
+Best model saved with loss 1.345585
+Epoch [456/500], Loss: 1.345517
+Best model saved with loss 1.345517
+Epoch [457/500], Loss: 1.344820
+Best model saved with loss 1.344820
+Epoch [458/500], Loss: 1.345453
+Epoch [459/500], Loss: 1.344727
+Best model saved with loss 1.344727
+Epoch [460/500], Loss: 1.344523
+Best model saved with loss 1.344523
+Epoch [461/500], Loss: 1.344376
+Best model saved with loss 1.344376
+Epoch [462/500], Loss: 1.343886
+Best model saved with loss 1.343886
+Epoch [463/500], Loss: 1.343931
+Epoch [464/500], Loss: 1.342930
+Best model saved with loss 1.342930
+Epoch [465/500], Loss: 1.343750
+Epoch [466/500], Loss: 1.342812
+Best model saved with loss 1.342812
+Epoch [467/500], Loss: 1.342500
+Best model saved with loss 1.342500
+Epoch [468/500], Loss: 1.341883
+Best model saved with loss 1.341883
+Epoch [469/500], Loss: 1.341873
+Best model saved with loss 1.341873
+Epoch [470/500], Loss: 1.341770
+Best model saved with loss 1.341770
+Epoch [471/500], Loss: 1.340344
+Best model saved with loss 1.340344
+Epoch [472/500], Loss: 1.341772
+Epoch [473/500], Loss: 1.340638
+Epoch [474/500], Loss: 1.340650
+Epoch [475/500], Loss: 1.339981
+Best model saved with loss 1.339981
+Epoch [476/500], Loss: 1.339999
+Epoch [477/500], Loss: 1.339211
+Best model saved with loss 1.339211
+Epoch [478/500], Loss: 1.339292
+Epoch [479/500], Loss: 1.338693
+Best model saved with loss 1.338693
+Epoch [480/500], Loss: 1.338667
+Best model saved with loss 1.338667
+Epoch [481/500], Loss: 1.337867
+Best model saved with loss 1.337867
+Epoch [482/500], Loss: 1.337749
+Best model saved with loss 1.337749
+Epoch [483/500], Loss: 1.338056
+Epoch [484/500], Loss: 1.337083
+Best model saved with loss 1.337083
+Epoch [485/500], Loss: 1.336999
+Best model saved with loss 1.336999
+Epoch [486/500], Loss: 1.336680
+Best model saved with loss 1.336680
+Epoch [487/500], Loss: 1.336722
+Epoch [488/500], Loss: 1.335865
+Best model saved with loss 1.335865
+Epoch [489/500], Loss: 1.335436
+Best model saved with loss 1.335436
+Epoch [490/500], Loss: 1.336019
+Epoch [491/500], Loss: 1.335415
+Best model saved with loss 1.335415
+Epoch [492/500], Loss: 1.335591
+Epoch [493/500], Loss: 1.334649
+Best model saved with loss 1.334649
+Epoch [494/500], Loss: 1.334883
+Epoch [495/500], Loss: 1.334233
+Best model saved with loss 1.334233
+Epoch [496/500], Loss: 1.334660
+Epoch [497/500], Loss: 1.333953
+Best model saved with loss 1.333953
+Epoch [498/500], Loss: 1.334153
+Epoch [499/500], Loss: 1.333415
+Best model saved with loss 1.333415
+Epoch [500/500], Loss: 1.333742
+Traceback (most recent call last):
+  File "train_model7_db_test.py", line 364, in <module>
+    main()
+  File "train_model7_db_test.py", line 354, in main
+    generated_tokens = generate_packets(model, user_prompt, text_tokenizer, packet_tokenizer, device, max_len=100)
+  File "train_model7_db_test.py", line 225, in generate_packets
+    token_counts = Counter()
+NameError: name 'Counter' is not defined
